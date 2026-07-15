@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🚀 GitHub Profile README Prompt
 
-<!--
-**agniezika014404kv2-max/agniezika014404kv2-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Create a modern and visually appealing GitHub profile README for a Computer Science (Data Science) undergraduate.
 
-Here are some ideas to get you started:
+Details:
+- Name: Eshika Agnihotri
+- Role: Data Science Undergraduate | Aspiring Data Analyst | Power BI Enthusiast
+- College: Maharana Pratap Engineering College, Kanpur
+- Degree: B.Tech CSE (Data Science)
+- Skills: Python, SQL, Power BI, Excel, Machine Learning, Data Visualization
+- Interests: Data Analytics, Business Intelligence, AI, Dashboard Development
+- Location: Kanpur, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Include:
+- Attractive banner/header
+- About Me section
+- Tech Stack with badges
+- GitHub Stats
+- LeetCode & HackerRank links
+- Featured Projects section
+- Connect With Me section
+- Clean dark-theme friendly design
+- Professional and ATS-friendly appearance
+
+Tagline:
+"Transforming Data into Insights | Building Data-Driven Solutions"
